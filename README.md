@@ -65,9 +65,8 @@ An OCR-focused project combining image processing and deep learning techniques.
 
 ### Let's Connect
 
-**LinkedIn:** Add your LinkedIn here  
-**Email:** Add your professional email here
-
+**LinkedIn:** [Add your LinkedIn here](https://www.linkedin.com/in/sachin-awachare-a73a95376/)  
+**Email:** sachinawchare7@gmail.com
 ---
 
 <p align="center">
